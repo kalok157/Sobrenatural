@@ -1,0 +1,2732 @@
+1
+00:00:01,153 --> 00:00:02,730
+ANTES
+
+2
+00:00:04,660 --> 00:00:08,205
+A Marca de Caim não deixa seu
+hospedeiro morrer facilmente.
+
+3
+00:00:08,222 --> 00:00:10,030
+É só uma maldição.
+Pode ser removida.
+
+4
+00:00:10,047 --> 00:00:11,632
+Aqui é o purgatório.
+
+5
+00:00:11,648 --> 00:00:13,115
+Havia algo em estar lá.
+
+6
+00:00:13,132 --> 00:00:15,612
+Era como estar em combate
+todos os dias.
+
+7
+00:00:17,165 --> 00:00:18,748
+Parecia puro.
+
+8
+00:00:19,809 --> 00:00:22,796
+Cuthbert Sinclair.
+O "Mestre dos feitiços."
+
+9
+00:00:22,797 --> 00:00:24,380
+Seu trabalho ficou meio louco.
+
+10
+00:00:24,381 --> 00:00:27,067
+Os líderes o chamaram de
+"excêntrico e irresponsável".
+
+11
+00:00:27,068 --> 00:00:29,955
+- Chega.
+- Está escolhendo os Winchester.
+
+12
+00:00:29,956 --> 00:00:31,332
+Estou escolhendo a mim.
+
+13
+00:00:31,348 --> 00:00:33,666
+O Livro dos Condenados
+é um livro de feitiços
+
+14
+00:00:33,667 --> 00:00:36,696
+para criar ou desfazer todo
+tipo de condenação que existe.
+
+15
+00:00:36,697 --> 00:00:39,377
+Se o traduzirmos, acho que
+podemos tirar a Marca, Dean.
+
+16
+00:00:39,378 --> 00:00:41,347
+Não confio em você,
+mas preciso de ajuda.
+
+17
+00:00:41,363 --> 00:00:43,432
+Preciso tirar a Marca de Caim
+do meu irmão.
+
+18
+00:00:43,448 --> 00:00:45,956
+E algo me diz que você
+pode decifrar esse livro.
+
+19
+00:00:45,957 --> 00:00:47,486
+A questão é:
+
+20
+00:00:47,487 --> 00:00:50,641
+- Você vai me ajudar?
+- Podemos discutir os termos?
+
+21
+00:01:07,141 --> 00:01:08,542
+Ei!
+
+22
+00:01:08,543 --> 00:01:10,904
+- Cai fora.
+- Meu programa começou.
+
+23
+00:01:10,905 --> 00:01:12,754
+Você tem um toca-discos
+no seu quarto.
+
+24
+00:01:12,755 --> 00:01:15,288
+- As caixas do pai são melhores.
+- Azar seu.
+
+25
+00:01:17,567 --> 00:01:20,367
+Vá lavar a roupa.
+Os operários finalmente
+
+26
+00:01:20,383 --> 00:01:22,719
+foram embora
+e eu estou fazendo o jantar.
+
+27
+00:01:22,720 --> 00:01:25,304
+E por favor, sem esse papo
+feminista de Betty Friedan.
+
+28
+00:01:25,532 --> 00:01:28,283
+Não é justo. Eu sempre fico
+com as tarefas mais difíceis,
+
+29
+00:01:28,303 --> 00:01:29,745
+só porque eu sou menina.
+
+30
+00:01:29,763 --> 00:01:31,705
+É? Bem, azar seu.
+
+31
+00:01:34,015 --> 00:01:35,685
+<i>A casa é ótima, Ted.</i>
+
+32
+00:01:35,686 --> 00:01:38,336
+Precisa de consertos,
+mas é muito bonita.
+
+33
+00:01:38,337 --> 00:01:42,125
+Teve problemas
+com o proprietário por anos.
+
+34
+00:01:42,126 --> 00:01:44,496
+Mas finalmente chegou
+ao mercado e eu garfei.
+
+35
+00:01:44,497 --> 00:01:47,957
+<i>"Ontem à noite, bem tarde"</i>
+
+36
+00:01:48,278 --> 00:01:51,767
+<i>"Eu sentia que algo
+não estava certo"</i>
+
+37
+00:01:51,966 --> 00:01:55,820
+<i>"Não havia ninguém à vista"</i>
+
+38
+00:01:55,821 --> 00:02:00,456
+<i>"Só você, só você"</i>
+
+39
+00:02:00,473 --> 00:02:04,058
+<i>"Então nós
+caminhamos juntos"</i>
+
+40
+00:02:04,269 --> 00:02:08,131
+<i>"Embora eu soubesse
+que algo estava errado"</i>
+
+41
+00:02:08,132 --> 00:02:10,350
+<i>Não passe o dia todo
+aí em baixo!</i>
+
+42
+00:02:10,384 --> 00:02:11,956
+<i>"Tão forte"</i>
+
+43
+00:02:12,002 --> 00:02:16,337
+<i>"sobre você"</i>
+
+44
+00:02:17,030 --> 00:02:20,293
+<i>"Então você olhou para mim"</i>
+
+45
+00:02:20,310 --> 00:02:24,030
+<i>"e a resposta estava clara"</i>
+
+46
+00:02:24,047 --> 00:02:26,047
+<i>"Porque eu vi"</i>
+
+47
+00:02:26,552 --> 00:02:30,973
+<i>"a luz nos seus olhos"</i>
+
+48
+00:02:32,140 --> 00:02:36,958
+<i>"nos seus olhos"</i>
+
+49
+00:02:59,836 --> 00:03:03,422
+<i>"Porque eu nunca
+poderia amar alguém"</i>
+
+50
+00:03:03,423 --> 00:03:07,943
+<i>"ou pelo menos
+foi o que eu disse"</i>
+
+51
+00:03:07,944 --> 00:03:11,703
+<i>"Mas meus sentimentos
+por você"</i>
+
+52
+00:03:11,704 --> 00:03:15,957
+<i>"eram algo de
+que eu não tinha ideia"</i>
+
+53
+00:03:15,958 --> 00:03:19,480
+<i>"Até eu ver a luz..."</i>
+
+54
+00:03:46,068 --> 00:03:47,613
+Mamãe?
+
+55
+00:03:51,762 --> 00:03:54,557
+Papai, onde está a mamãe?
+
+56
+00:04:03,076 --> 00:04:04,606
+Mamãe?
+
+57
+00:04:05,441 --> 00:04:06,820
+Brad?
+
+58
+00:04:12,677 --> 00:04:14,187
+Mamãe?
+
+59
+00:04:15,355 --> 00:04:16,788
+Mamãe!
+
+60
+00:04:17,013 --> 00:04:19,191
+<i>Tudo vai ficar bem.</i>
+
+61
+00:04:20,002 --> 00:04:22,419
+Tudo vai ficar bem.
+
+62
+00:04:22,420 --> 00:04:23,886
+<i>Tudo...</i>
+
+63
+00:04:23,887 --> 00:04:26,275
+Vai ficar bem.
+
+64
+00:04:31,477 --> 00:04:36,160
+Supernatural 10x19 - The Werther
+Project, by Ghostfacers
+
+65
+00:04:42,317 --> 00:04:44,867
+Só há uma coisa
+
+66
+00:04:44,868 --> 00:04:47,567
+que você pode fazer por mim,
+
+67
+00:04:48,021 --> 00:04:51,685
+que eu, no momento,
+não posso fazer sozinha.
+
+68
+00:04:53,210 --> 00:04:55,130
+Matar o meu filho.
+
+69
+00:04:57,627 --> 00:04:59,960
+Ele espera isso de mim.
+
+70
+00:05:00,122 --> 00:05:03,250
+Seus minions fedorentos
+já estão em alerta.
+
+71
+00:05:03,267 --> 00:05:05,752
+E se está se perguntando como
+uma mãe chega ao ponto
+
+72
+00:05:05,768 --> 00:05:07,253
+de querer seu próprio filho...
+
+73
+00:05:07,272 --> 00:05:09,338
+Não, não quero nem saber.
+Eu topo.
+
+74
+00:05:09,781 --> 00:05:11,699
+Matarei Crowley.
+
+75
+00:05:12,509 --> 00:05:14,219
+Mas primeiro...
+
+76
+00:05:14,220 --> 00:05:15,636
+Consegue ler o livro?
+
+77
+00:05:15,637 --> 00:05:17,442
+É claro que consigo.
+
+78
+00:05:17,513 --> 00:05:19,625
+Sou, provavelmente,
+a única bruxa ainda viva
+
+79
+00:05:19,642 --> 00:05:23,123
+que entende de
+magia tão negra e antiga.
+
+80
+00:05:24,340 --> 00:05:27,260
+Mas não no formato
+em que está.
+
+81
+00:05:29,603 --> 00:05:31,494
+A bebida é por minha conta.
+
+82
+00:05:31,950 --> 00:05:34,912
+Não vai a parte alguma, amigo.
+
+83
+00:05:36,707 --> 00:05:40,225
+Sou sua inimiga mortal.
+Tentei matar você e seu irmão...
+
+84
+00:05:40,243 --> 00:05:42,873
+Seu irmão, no mês passado.
+
+85
+00:05:43,772 --> 00:05:47,067
+Não teria me procurado se
+eu não fosse o último recurso.
+
+86
+00:05:47,209 --> 00:05:49,004
+Está desesperado.
+
+87
+00:05:49,884 --> 00:05:52,094
+Pode parar de fingir
+que não está.
+
+88
+00:05:55,311 --> 00:05:56,896
+Que grosseiro.
+
+89
+00:05:58,680 --> 00:06:01,047
+DEAN: MATANDO VAMPIROS
+EM TULSA. VENHA SE QUISER.
+
+90
+00:06:01,063 --> 00:06:04,565
+Não consigo ler o livro
+neste formato,
+
+91
+00:06:04,582 --> 00:06:07,013
+mas tem alguém que poderia.
+
+92
+00:06:07,983 --> 00:06:12,361
+Nadya, bruxa do Grand Coven.
+
+93
+00:06:12,616 --> 00:06:16,161
+- Onde posso encontrá-la?
+- Não pode. Ela morreu.
+
+94
+00:06:16,162 --> 00:06:17,607
+Há muito tempo.
+
+95
+00:06:17,608 --> 00:06:19,927
+Assassinada por causa
+de sua obra.
+
+96
+00:06:21,077 --> 00:06:24,651
+Suas fórmulas para decifrar,
+seu códice,
+
+97
+00:06:24,652 --> 00:06:26,791
+Isso dá para encontrar.
+
+98
+00:06:26,792 --> 00:06:29,795
+Traga-me o códice
+de Nadya e eu...
+
+99
+00:06:30,336 --> 00:06:33,006
+decifrarei este texto.
+
+100
+00:06:33,007 --> 00:06:35,425
+E te darei sua cura.
+
+101
+00:06:36,631 --> 00:06:38,132
+Onde procuro?
+
+102
+00:06:38,133 --> 00:06:41,013
+Seu eu fosse você,
+começaria em casa.
+
+103
+00:06:42,440 --> 00:06:46,570
+Quem acha que assassinou Nadya
+e roubou o códice?
+
+104
+00:06:48,019 --> 00:06:49,461
+Os Homens das Letras.
+
+105
+00:07:20,770 --> 00:07:22,230
+Sorte grande.
+
+106
+00:07:22,231 --> 00:07:23,546
+Dean.
+
+107
+00:07:26,595 --> 00:07:28,180
+O que aconteceu?
+O que houve?
+
+108
+00:07:28,181 --> 00:07:29,583
+Pois é, né?
+
+109
+00:07:29,584 --> 00:07:31,286
+Seis vampiros.
+Sozinho.
+
+110
+00:07:32,977 --> 00:07:35,396
+Acho que é meu recorde.
+
+111
+00:07:37,697 --> 00:07:39,782
+- Não dava para ter esperado?
+- Pelo quê?
+
+112
+00:07:39,798 --> 00:07:41,648
+- Pelo quê?
+- Ah, cara!
+
+113
+00:07:41,667 --> 00:07:43,033
+Eu dou conta.
+Eu dei conta.
+
+114
+00:07:43,052 --> 00:07:44,912
+- E se não desse?
+- Mas eu consegui.
+
+115
+00:07:44,928 --> 00:07:46,453
+Está feito.
+
+116
+00:07:46,867 --> 00:07:49,537
+Qual é, cara? É o único jeito
+de baixar a adrenalina.
+
+117
+00:07:49,956 --> 00:07:53,086
+Desculpe. Não gosto de ficar
+esperando por você,
+
+118
+00:07:53,087 --> 00:07:55,588
+principalmente me olhando
+desse jeito, o tempo todo.
+
+119
+00:07:55,605 --> 00:07:57,173
+- Olhando como?
+- Desse jeito.
+
+120
+00:07:57,192 --> 00:08:00,343
+Como se eu fosse um
+bichinho assassino doente.
+
+121
+00:08:01,387 --> 00:08:04,263
+Quer saber, cara? Estou suado
+e coberto de gosma de vampiro.
+
+122
+00:08:04,282 --> 00:08:05,598
+Dá para falar disso depois?
+
+123
+00:08:05,617 --> 00:08:08,227
+Quero voltar para o bunker,
+tomar umas e sei lá,
+
+124
+00:08:08,243 --> 00:08:10,991
+dormir assistindo
+"Velocidade Máxima 2".
+
+125
+00:08:11,434 --> 00:08:12,979
+Tudo bem?
+
+126
+00:08:14,562 --> 00:08:16,022
+Tudo bem.
+
+127
+00:08:34,002 --> 00:08:37,005
+<i>Ata de Reunião - 16/05/56
+(Cuthbert Sinclair, Expulsão)</i>
+
+128
+00:09:07,635 --> 00:09:09,012
+<i>Atenção, por favor.</i>
+
+129
+00:09:09,013 --> 00:09:10,830
+<i>Ata de Reunião
+dos Homens das Letras,</i>
+
+130
+00:09:10,847 --> 00:09:12,638
+<i>16 de maio de 1956.</i>
+
+131
+00:09:12,657 --> 00:09:14,752
+<i>Assunto: expulsão
+de Cuthbert Sinclair.</i>
+
+132
+00:09:14,768 --> 00:09:16,920
+<i>Esta não foi sua
+primeira infração, Cuthbert.</i>
+
+133
+00:09:16,937 --> 00:09:19,345
+Você já foi notificado por
+infrações disciplinares
+
+134
+00:09:19,363 --> 00:09:21,801
+sete vezes, no seu
+tempo de serviço.
+
+135
+00:09:21,928 --> 00:09:25,971
+Este seu cofre encantado,
+esta...
+
+136
+00:09:26,055 --> 00:09:27,846
+"Caixa de Werther"
+
+137
+00:09:27,847 --> 00:09:31,726
+é uma proteção tão potente
+que atinge a taxa teórica de,
+
+138
+00:09:31,727 --> 00:09:35,428
+em suas próprias palavras,
+"98% de letalidade".
+
+139
+00:09:35,448 --> 00:09:37,148
+Medidas extremas
+foram necessárias.
+
+140
+00:09:37,167 --> 00:09:39,652
+O Coven está desesperado
+tentando recuperar o codex.
+
+141
+00:09:39,668 --> 00:09:41,820
+A Caixa Werther funciona.
+
+142
+00:09:41,837 --> 00:09:43,696
+Bem até demais, eu diria.
+
+143
+00:09:43,713 --> 00:09:45,339
+Trabalhar em segredo,
+
+144
+00:09:45,340 --> 00:09:47,856
+entrar nesse projeto
+sem supervisão...
+
+145
+00:09:47,857 --> 00:09:50,457
+Você deixou dois
+Homens das Letras vulneráveis
+
+146
+00:09:50,473 --> 00:09:52,288
+à sua magia mais potente.
+
+147
+00:09:52,289 --> 00:09:55,873
+Fletcher e Martinez eram
+membros valiosos.
+
+148
+00:09:55,874 --> 00:09:58,919
+Fletcher tentou abrir a caixa
+e morreu em duas horas.
+
+149
+00:09:58,920 --> 00:10:01,643
+Martinez tentou
+fechá-la, heroicamente.
+
+150
+00:10:01,644 --> 00:10:04,257
+Foi encontrado morto, no chão,
+ao lado da caixa,
+
+151
+00:10:04,258 --> 00:10:05,725
+com os pulsos cortados.
+
+152
+00:10:05,742 --> 00:10:08,027
+Já me desculpei pelo acidente.
+
+153
+00:10:08,043 --> 00:10:10,988
+Recuso-me
+a fazê-lo novamente.
+
+154
+00:10:14,352 --> 00:10:16,938
+Por que são tão bitolados?
+
+155
+00:10:23,278 --> 00:10:27,742
+Fomos trazidos aqui para
+fazer coisas extraordinárias.
+
+156
+00:10:31,077 --> 00:10:33,771
+Para arriscar,
+
+157
+00:10:33,772 --> 00:10:36,792
+lutar contra
+os monstros deste mundo.
+
+158
+00:10:36,808 --> 00:10:39,092
+Mas quando
+se trata de um homem,
+
+159
+00:10:39,108 --> 00:10:42,657
+preferem que apodreça
+nas prateleiras.
+
+160
+00:10:42,658 --> 00:10:46,779
+Vocês não são homens.
+Não são homens.
+
+161
+00:10:48,314 --> 00:10:51,760
+São bibliotecários.
+Nada além disso.
+
+162
+00:10:54,744 --> 00:10:56,592
+Antes de decidirmos
+
+163
+00:10:56,593 --> 00:10:58,688
+o que será feito com você,
+
+164
+00:10:59,128 --> 00:11:02,150
+vou lhe dar um uma chance
+de receber nossa leniência.
+
+165
+00:11:02,168 --> 00:11:03,568
+Diga-nos como fechar a caixa.
+
+166
+00:11:03,587 --> 00:11:05,778
+A caixa ainda está
+em St. Louis, com o codex.
+
+167
+00:11:05,795 --> 00:11:07,567
+Ainda é um perigo.
+
+168
+00:11:20,620 --> 00:11:24,706
+Vou te dizer o que fazer
+com sua leniência, Markham.
+
+169
+00:11:30,970 --> 00:11:32,445
+Na verdade,
+
+170
+00:11:32,462 --> 00:11:34,280
+eu sabia que ia dar nisso.
+
+171
+00:11:34,297 --> 00:11:36,963
+Sabia que vocês, covardes,
+acabariam com o projeto,
+
+172
+00:11:36,980 --> 00:11:39,678
+por isso ela foi
+construída desse jeito.
+
+173
+00:11:40,503 --> 00:11:45,360
+Só há uma forma de silenciar
+Werther para sempre.
+
+174
+00:11:46,155 --> 00:11:49,408
+Martinez estava
+no caminho certo.
+
+175
+00:11:49,447 --> 00:11:50,948
+Duvido que tenham coragem,
+
+176
+00:11:50,967 --> 00:11:53,158
+mas fiquem à vontade
+para morrer tentando.
+
+177
+00:11:56,753 --> 00:12:00,458
+Markham, quer que
+continuemos tentando?
+
+178
+00:12:02,002 --> 00:12:04,587
+A caixa será sepultada
+e protegida onde está,
+
+179
+00:12:04,603 --> 00:12:06,328
+perpetuamente.
+
+180
+00:12:06,697 --> 00:12:08,263
+Enterrem-na.
+
+181
+00:12:58,192 --> 00:13:00,196
+É um pouco cedo.
+
+182
+00:13:01,417 --> 00:13:03,434
+Tenho mais de 300 anos.
+
+183
+00:13:03,435 --> 00:13:05,939
+Sono de beleza não é opcional.
+
+184
+00:13:06,148 --> 00:13:09,526
+Pesquisei sobre
+aquilo que discutimos.
+
+185
+00:13:09,606 --> 00:13:11,526
+Encontrei uma pista,
+
+186
+00:13:11,533 --> 00:13:14,186
+mas está protegida
+por um feitiço violento.
+
+187
+00:13:14,197 --> 00:13:16,563
+Preciso de um feitiço para
+
+188
+00:13:16,580 --> 00:13:17,952
+quebrar o feitiço.
+
+189
+00:13:17,968 --> 00:13:19,818
+A invocação Cabiri.
+
+190
+00:13:19,837 --> 00:13:21,998
+Fácil de obter.
+Desencantamento para tudo.
+
+191
+00:13:22,015 --> 00:13:24,167
+- Ótimo. Obrigado.
+- Mas...
+
+192
+00:13:24,183 --> 00:13:25,725
+Não é recomendada
+para amadores.
+
+193
+00:13:25,743 --> 00:13:28,121
+Em mãos inexperientes,
+
+194
+00:13:28,122 --> 00:13:30,870
+a invocação acaba
+enfraquecendo, no final.
+
+195
+00:13:31,150 --> 00:13:33,360
+Eu poderia ir até você.
+
+196
+00:13:34,217 --> 00:13:35,969
+Pode precisar de mim.
+
+197
+00:13:35,970 --> 00:13:38,353
+Prefiro me arriscar.
+Obrigado.
+
+198
+00:14:11,520 --> 00:14:13,087
+- Opa!
+- Péssima ideia.
+
+199
+00:14:13,103 --> 00:14:15,302
+- Eu posso explicar.
+- Não se dê ao trabalho.
+
+200
+00:14:15,318 --> 00:14:16,842
+Você tem três escolhas:
+
+201
+00:14:16,858 --> 00:14:18,388
+ser preso,
+
+202
+00:14:18,405 --> 00:14:21,013
+ter sua "partes" explodidas,
+ou ir embora.
+
+203
+00:14:21,032 --> 00:14:23,227
+Sim, tudo bem.
+Acho que vou embora.
+
+204
+00:14:23,243 --> 00:14:24,978
+- Desculpe-me.
+- Muito bem.
+
+205
+00:14:36,032 --> 00:14:37,615
+Oi, Sammy!
+
+206
+00:14:38,106 --> 00:14:39,861
+Como está o caso?
+
+207
+00:14:49,584 --> 00:14:51,086
+O que está fazendo aqui?
+
+208
+00:14:51,262 --> 00:14:55,017
+Parece que vim para
+salvar suas "partes".
+
+209
+00:14:56,677 --> 00:14:58,273
+Vocês estava certo.
+
+210
+00:14:58,292 --> 00:15:00,488
+Eu não deveria
+ter ido sozinho.
+
+211
+00:15:00,557 --> 00:15:02,057
+Foi burrice.
+
+212
+00:15:03,800 --> 00:15:05,177
+E?
+
+213
+00:15:05,178 --> 00:15:07,544
+Fui egoísta.
+Foi sacanagem.
+
+214
+00:15:07,545 --> 00:15:10,380
+Se está levando o caso sozinho
+para me dar uma lição,
+
+215
+00:15:10,397 --> 00:15:12,483
+não precisa, ok?
+
+216
+00:15:14,935 --> 00:15:16,437
+Como me achou?
+
+217
+00:15:17,572 --> 00:15:19,115
+Eu...
+
+218
+00:15:21,860 --> 00:15:24,036
+fiz uma gravura
+com seu bloco de anotações.
+
+219
+00:15:24,223 --> 00:15:28,018
+E decidi me arriscar
+na casa suicida de St. Louis.
+
+220
+00:15:29,281 --> 00:15:31,983
+- Então sabe a respeito?
+- Peguei o básico no Google.
+
+221
+00:15:31,984 --> 00:15:34,713
+Família se muda para casa
+desocupada há muito tempo.
+
+222
+00:15:34,714 --> 00:15:36,032
+Uma semana depois,
+
+223
+00:15:36,033 --> 00:15:38,161
+três deles morrem
+pelas próprias mãos.
+
+224
+00:15:38,178 --> 00:15:40,110
+Família toda dizimada,
+exceto a filha,
+
+225
+00:15:40,125 --> 00:15:41,870
+que ainda é a proprietária.
+
+226
+00:15:41,871 --> 00:15:44,272
+Foi ela quem quase acabou
+com sua masculinidade.
+
+227
+00:15:44,273 --> 00:15:45,774
+Só tem um problema.
+
+228
+00:15:45,775 --> 00:15:48,112
+Arquivo morto
+é uma coisa, mas
+
+229
+00:15:48,113 --> 00:15:49,865
+isso aqui está
+morto e enterrado.
+
+230
+00:15:49,866 --> 00:15:51,705
+Não tem nada a ver
+com nosso ramo,
+
+231
+00:15:51,706 --> 00:15:53,881
+a menos que saiba algo
+que não sei.
+
+232
+00:15:59,118 --> 00:16:01,307
+A "casa desocupada
+há muito tempo"
+
+233
+00:16:01,308 --> 00:16:04,395
+era uma Casa de Reuniões
+dos Homens das Letras.
+
+234
+00:16:05,105 --> 00:16:06,856
+Lembra do Magnus?
+
+235
+00:16:06,875 --> 00:16:08,315
+O babaca,
+ex-Homem das Letras,
+
+236
+00:16:08,331 --> 00:16:10,428
+que quis me fazer
+de animal de circo? Sim.
+
+237
+00:16:10,429 --> 00:16:13,528
+Antes de ser expulso,
+ele construiu Werther,
+
+238
+00:16:13,529 --> 00:16:16,784
+uma caixa mágica com um
+sistema de alarme mortal.
+
+239
+00:16:16,785 --> 00:16:19,576
+Werther está enterrada
+em algum lugar, naquela casa.
+
+240
+00:16:19,595 --> 00:16:20,953
+Deveria estar protegida,
+
+241
+00:16:20,971 --> 00:16:22,913
+mas acho que o plano foi
+por água abaixo
+
+242
+00:16:22,930 --> 00:16:25,675
+quando Abaddon massacrou
+todos os membros, em 1958.
+
+243
+00:16:25,691 --> 00:16:27,191
+E aí a casa caiu no limbo,
+
+244
+00:16:27,208 --> 00:16:29,508
+até ser comprada
+por uma família de sorte.
+
+245
+00:16:30,571 --> 00:16:32,406
+Werther é uma bomba-relógio.
+
+246
+00:16:32,673 --> 00:16:34,466
+E precisa ser desarmada.
+
+247
+00:16:34,635 --> 00:16:37,928
+Não apenas isto é nosso ramo,
+como nossa responsabilidade.
+
+248
+00:16:37,945 --> 00:16:40,416
+- Nossa responsabilidade?
+- Somos Homens das Letras.
+
+249
+00:16:40,417 --> 00:16:41,898
+É nosso legado.
+
+250
+00:16:42,476 --> 00:16:44,725
+Bem, se acha
+que isto é um caso,
+
+251
+00:16:44,726 --> 00:16:46,395
+estou dentro.
+
+252
+00:16:47,021 --> 00:16:48,787
+Se me aceitar.
+
+253
+00:16:57,923 --> 00:16:59,654
+O que foi que eu disse?
+
+254
+00:17:01,108 --> 00:17:02,806
+Você não é...
+
+255
+00:17:05,096 --> 00:17:06,831
+Um cara tentou...
+
+256
+00:17:07,720 --> 00:17:09,264
+O que quer?
+
+257
+00:17:09,964 --> 00:17:12,714
+A senhora o viu?
+Diga que sim.
+
+258
+00:17:12,715 --> 00:17:14,590
+Desculpe-me.
+Meu nome é Dwight Twilley.
+
+259
+00:17:14,606 --> 00:17:16,341
+Faço parte
+da vigilância do bairro.
+
+260
+00:17:16,342 --> 00:17:18,244
+Estamos investigando
+recentes invasões.
+
+261
+00:17:18,245 --> 00:17:22,567
+Se viu o cara e puder
+descrevê-lo, ajudaria bastante.
+
+262
+00:17:22,568 --> 00:17:24,621
+Se me der um minuto
+da sua atenção.
+
+263
+00:17:29,823 --> 00:17:31,480
+Ele é alto, branco.
+
+264
+00:17:31,481 --> 00:17:33,310
+Cabelos bonitos.
+
+265
+00:17:46,213 --> 00:17:48,397
+Bonita a sua casa...
+
+266
+00:17:49,068 --> 00:17:52,197
+- Suzie.
+- Suzie. Mora sozinha?
+
+267
+00:17:52,198 --> 00:17:53,917
+Só eu e o Gus.
+
+268
+00:17:53,918 --> 00:17:55,486
+Gus?
+
+269
+00:18:26,822 --> 00:18:29,267
+Então, mora sozinha
+nessa casa enorme.
+
+270
+00:18:29,268 --> 00:18:32,605
+Deve ser solitário,
+mesmo com o Gus.
+
+271
+00:18:38,183 --> 00:18:40,559
+Estou acostumada a ficar só.
+
+272
+00:18:42,260 --> 00:18:44,280
+Não, obrigado.
+
+273
+00:19:07,703 --> 00:19:09,941
+Sou só desde...
+
+274
+00:19:10,665 --> 00:19:12,125
+os anos 1980?
+
+275
+00:19:12,856 --> 00:19:14,582
+Depois que
+minha família morreu,
+
+276
+00:19:14,583 --> 00:19:16,758
+minha tia Pauline
+veio morar aqui.
+
+277
+00:19:17,265 --> 00:19:20,341
+Cuidou de mim, me criou,
+por alguns anos.
+
+278
+00:19:22,041 --> 00:19:23,894
+Então...
+
+279
+00:19:32,635 --> 00:19:35,060
+Então, o que aconteceu
+
+280
+00:19:35,061 --> 00:19:36,836
+com sua tia?
+
+281
+00:19:39,115 --> 00:19:40,772
+Bem...
+
+282
+00:19:43,095 --> 00:19:46,098
+Eu disse a ela
+para não ir ao porão.
+
+283
+00:19:49,029 --> 00:19:51,725
+Ninguém entra no porão.
+
+284
+00:20:02,541 --> 00:20:04,718
+O que tem no porão, Suzie?
+
+285
+00:20:21,240 --> 00:20:22,977
+A senhora está bem?
+
+286
+00:20:33,831 --> 00:20:35,158
+Ei! Suzie...
+
+287
+00:20:35,176 --> 00:20:39,461
+Estou socialmente enferrujada,
+mas não sou idiota.
+
+288
+00:20:41,046 --> 00:20:43,006
+A campanhia
+não toca há meses,
+
+289
+00:20:43,007 --> 00:20:45,753
+e de repente dois visitantes
+em uma hora?
+
+290
+00:20:45,754 --> 00:20:47,420
+Um tenta invadir,
+
+291
+00:20:47,421 --> 00:20:50,723
+e o outro pergunta um monte
+de coisas sobre...
+
+292
+00:20:50,741 --> 00:20:52,708
+Eu disse que sou
+da vigilância do bairro.
+
+293
+00:20:52,726 --> 00:20:55,095
+Sim, claro,
+vigilância do bairro.
+
+294
+00:20:55,096 --> 00:20:57,196
+Menino, já viu esta casa?
+
+295
+00:20:58,145 --> 00:21:00,815
+Só tem uma coisa aqui
+de valor,
+
+296
+00:21:00,817 --> 00:21:02,983
+e com certeza não sou eu.
+
+297
+00:21:02,984 --> 00:21:05,347
+- Está bem.
+- Veio por causa da caixa.
+
+298
+00:21:08,908 --> 00:21:11,161
+<i>Purificare la magia.</i>
+
+299
+00:21:11,178 --> 00:21:14,263
+Quem deixou aquela desgraça
+lá embaixo...
+
+300
+00:21:14,280 --> 00:21:17,100
+Eu sabia que um dia
+alguém viria buscá-la.
+
+301
+00:21:17,116 --> 00:21:19,716
+Jurei que isso
+jamais aconteceria.
+
+302
+00:21:23,255 --> 00:21:25,290
+Ele está lá embaixo, não é?
+
+303
+00:21:25,306 --> 00:21:27,926
+Ele é meu irmão.
+Estamos aqui para ajudá-la.
+
+304
+00:21:28,624 --> 00:21:30,511
+Chame-o aqui para cima.
+
+305
+00:21:30,528 --> 00:21:31,895
+Agora!
+
+306
+00:21:31,911 --> 00:21:33,390
+<i>Chame-o aqui para cima!</i>
+
+307
+00:21:33,391 --> 00:21:35,395
+<i>- Agora!
+- Está bem. Sam!</i>
+
+308
+00:21:37,311 --> 00:21:38,936
+Sammy!
+
+309
+00:21:39,513 --> 00:21:41,556
+<i>Purificare la magia.</i>
+
+310
+00:21:42,104 --> 00:21:44,745
+Ela quer você aqui, agora!
+
+311
+00:21:55,788 --> 00:21:58,667
+Não. Não!
+
+312
+00:21:58,991 --> 00:22:01,335
+Saia!
+Saia!
+
+313
+00:22:01,351 --> 00:22:02,878
+Fora!
+Fora!
+
+314
+00:22:02,896 --> 00:22:04,863
+- Seus desgraçados!
+- Está bem. Está bem.
+
+315
+00:22:04,881 --> 00:22:06,298
+Vocês a abriram!
+
+316
+00:22:18,792 --> 00:22:20,324
+Dean!
+
+317
+00:22:21,569 --> 00:22:23,881
+Calma. Vá com calma.
+
+318
+00:22:23,882 --> 00:22:26,015
+Tem ideia do que fez?
+
+319
+00:22:26,016 --> 00:22:28,180
+Abaixe a arma.
+Vamos conversar.
+
+320
+00:22:28,181 --> 00:22:29,491
+O que foi isso?
+
+321
+00:22:29,500 --> 00:22:31,486
+<i>Oi, Suzie. Sentiu minha falta?</i>
+
+322
+00:22:31,487 --> 00:22:32,825
+Meu Deus.
+
+323
+00:22:34,076 --> 00:22:36,446
+- O que há com ela?
+- Não sei.
+
+324
+00:22:36,463 --> 00:22:38,013
+Fique longe de mim.
+
+325
+00:22:38,030 --> 00:22:39,848
+Fique longe de mim!
+
+326
+00:22:39,865 --> 00:22:41,338
+Vamos.
+
+327
+00:22:43,126 --> 00:22:46,671
+<i>Ora, Suze.
+É assim que trata sua família?</i>
+
+328
+00:23:03,580 --> 00:23:05,581
+<i>Olá, Suzie.</i>
+
+329
+00:23:12,148 --> 00:23:13,906
+O que está fazendo?
+
+330
+00:23:13,923 --> 00:23:16,164
+Não tem um plano.
+Não tem defesa!
+
+331
+00:23:19,107 --> 00:23:21,569
+- Não.
+- Você fez isso conosco.
+
+332
+00:23:23,713 --> 00:23:25,670
+<i>Abriu aquilo.</i>
+
+333
+00:23:28,774 --> 00:23:31,448
+<i>Nós morremos
+enquanto você dormia.</i>
+
+334
+00:23:33,093 --> 00:23:34,511
+<i>Não!</i>
+
+335
+00:23:34,531 --> 00:23:36,471
+- Suzie!
+<i>- Não!</i>
+
+336
+00:23:49,061 --> 00:23:50,742
+Suzie?
+
+337
+00:23:52,338 --> 00:23:54,538
+<i>Por favor! Não! Pare!</i>
+
+338
+00:23:54,555 --> 00:23:56,156
+<i>Pare!</i>
+
+339
+00:23:57,676 --> 00:23:59,076
+Suzie!
+
+340
+00:24:00,613 --> 00:24:02,898
+Suzie, deixe-me entrar.
+Posso ajudá-la.
+
+341
+00:24:02,915 --> 00:24:04,633
+Suzie, nada disso é real.
+
+342
+00:24:04,650 --> 00:24:06,703
+<i>Não precisa ficar triste.</i>
+
+343
+00:24:06,720 --> 00:24:08,805
+<i>E não precisa ficar só.</i>
+
+344
+00:24:08,821 --> 00:24:11,454
+<i>- Suzie, por favor!
+- Nunca mais.</i>
+
+345
+00:24:11,455 --> 00:24:14,443
+<i>Suzie, deixe-me entrar.
+Posso ajudá-la.</i>
+
+346
+00:24:14,460 --> 00:24:16,060
+Por favor, não.
+
+347
+00:24:16,076 --> 00:24:17,430
+<i>Suzie!</i>
+
+348
+00:24:17,959 --> 00:24:19,507
+Dean!
+
+349
+00:24:34,980 --> 00:24:36,426
+Sam?
+
+350
+00:24:48,585 --> 00:24:50,045
+Suzie?
+
+351
+00:25:10,983 --> 00:25:12,316
+Merda.
+
+352
+00:25:12,333 --> 00:25:13,651
+<i>Bu!</i>
+
+353
+00:25:14,310 --> 00:25:17,473
+Sobrevivi 40 anos
+nesta casa,
+
+354
+00:25:17,490 --> 00:25:20,425
+mantendo aquela coisa
+trancada,
+
+355
+00:25:20,441 --> 00:25:22,786
+e após uma visita
+de um idiota como você...
+
+356
+00:25:22,805 --> 00:25:24,413
+Eu sinto muito, ok?
+Sinto muito.
+
+357
+00:25:24,430 --> 00:25:26,021
+Seu "sinto muito"
+me ajuda muito.
+
+358
+00:25:26,041 --> 00:25:27,416
+Olhe para mim.
+
+359
+00:25:27,500 --> 00:25:29,541
+Olhe para mim!
+
+360
+00:25:32,920 --> 00:25:34,380
+Aí está ela.
+
+361
+00:25:34,423 --> 00:25:37,385
+A primeira baixa
+em sua missão sem rumo.
+
+362
+00:25:37,664 --> 00:25:40,636
+Mas o que é
+outra vida humana para você?
+
+363
+00:25:40,653 --> 00:25:42,198
+Tudo vale a pena,
+
+364
+00:25:42,216 --> 00:25:44,850
+desde que vocês dois
+escapem com vida.
+
+365
+00:25:45,977 --> 00:25:48,229
+E como vai a busca?
+
+366
+00:25:48,541 --> 00:25:50,961
+Está mais perto da cura?
+
+367
+00:25:50,962 --> 00:25:52,632
+Isso não é real.
+
+368
+00:25:53,447 --> 00:25:55,064
+Você não é real.
+
+369
+00:25:57,261 --> 00:26:00,416
+Você acha que Dean
+é imprevisível, o dedo frouxo.
+
+370
+00:26:00,433 --> 00:26:01,883
+Mas não vê?
+
+371
+00:26:01,900 --> 00:26:03,453
+Fazer tratos com bruxas,
+
+372
+00:26:03,476 --> 00:26:06,094
+abrir a Caixa de Pandora
+lá embaixo?
+
+373
+00:26:06,105 --> 00:26:07,571
+Você é o imprudente.
+
+374
+00:26:07,596 --> 00:26:09,922
+Você vai fazer de tudo
+para continuar agarrado
+
+375
+00:26:09,923 --> 00:26:12,348
+àquele seu irmão
+amaldiçoado.
+
+376
+00:26:12,420 --> 00:26:14,745
+Quantos mais vão morrer,
+Sammy?
+
+377
+00:26:14,844 --> 00:26:17,700
+Você sabe.
+Você precisa ser detido!
+
+378
+00:26:17,716 --> 00:26:20,436
+E o único
+que pode te deter é você!
+
+379
+00:26:20,453 --> 00:26:21,803
+Faça isso, Sammy!
+
+380
+00:26:21,820 --> 00:26:24,655
+Acabe com essa farsa
+de uma vez por todas!
+
+381
+00:26:24,671 --> 00:26:26,291
+Vanesce!
+
+382
+00:26:30,361 --> 00:26:32,481
+Eu disse
+que precisaria de mim.
+
+383
+00:26:39,541 --> 00:26:41,073
+Como me achou?
+
+384
+00:26:42,076 --> 00:26:44,038
+Do mesmo jeito que te salvei...
+
+385
+00:26:44,153 --> 00:26:45,488
+Magia.
+
+386
+00:26:45,489 --> 00:26:48,115
+Tive um pressentimento de
+que faria mais do que pode.
+
+387
+00:26:48,116 --> 00:26:49,724
+Bem, você não pode estar aqui.
+
+388
+00:26:49,983 --> 00:26:51,818
+Se Dean te vir...
+
+389
+00:26:53,574 --> 00:26:54,976
+Dean?
+
+390
+00:26:54,977 --> 00:26:56,519
+Sam?
+
+391
+00:26:57,808 --> 00:27:00,473
+O que está fazendo?
+
+392
+00:27:27,239 --> 00:27:29,030
+Oi, chefe.
+
+393
+00:27:31,258 --> 00:27:34,446
+Não.
+Não, não pode ser você.
+
+394
+00:27:35,478 --> 00:27:37,021
+Acorde!
+
+395
+00:27:37,022 --> 00:27:39,275
+Dean, o que quer que
+esteja vendo, não é real!
+
+396
+00:27:39,276 --> 00:27:40,928
+É real o bastante para ele.
+
+397
+00:27:40,929 --> 00:27:44,059
+- O que está fazendo?!
+- Ele não pode me ver, Sam.
+
+398
+00:27:45,058 --> 00:27:47,491
+- É, ele está longe.
+- Pode acordá-lo?
+
+399
+00:27:47,492 --> 00:27:49,642
+Eu só trouxe magia suficiente
+para ajudar um.
+
+400
+00:27:49,643 --> 00:27:51,608
+Se tivesse dito
+que teríamos companhia...
+
+401
+00:27:51,609 --> 00:27:53,102
+- Não existe "nós."
+- Certo.
+
+402
+00:27:53,103 --> 00:27:54,435
+Vire-se sozinho.
+
+403
+00:27:54,436 --> 00:27:56,953
+Mas você não
+tem muita chance.
+
+404
+00:27:56,954 --> 00:27:58,647
+Você não é real.
+
+405
+00:27:58,802 --> 00:28:00,769
+O feitiço pegou fundo.
+
+406
+00:28:00,770 --> 00:28:02,421
+Se quer que ele acorde,
+
+407
+00:28:02,674 --> 00:28:04,868
+vai ter que destruir o
+encantamento pela raiz.
+
+408
+00:28:04,884 --> 00:28:06,203
+A caixa.
+
+409
+00:28:06,219 --> 00:28:08,329
+Se pudermos entender
+o mecanismo anti-falha,
+
+410
+00:28:08,349 --> 00:28:10,331
+podemos parar o feitiço
+e pegar o códice.
+
+411
+00:28:10,349 --> 00:28:12,543
+As alucinações de Suzie
+a levaram ao suicídio.
+
+412
+00:28:12,559 --> 00:28:14,151
+O mesmo aconteceu
+à família dela.
+
+413
+00:28:14,169 --> 00:28:16,379
+As ilusões de Werther tentaram
+o mesmo comigo.
+
+414
+00:28:16,396 --> 00:28:17,714
+E então?
+
+415
+00:28:17,731 --> 00:28:20,049
+Então não posso deixar Dean
+sozinho desse jeito.
+
+416
+00:28:20,553 --> 00:28:22,303
+Bem, então...
+
+417
+00:28:23,520 --> 00:28:26,430
+Teremos que amarrar
+o bonitão.
+
+418
+00:28:27,056 --> 00:28:28,849
+Pode ser divertido.
+
+419
+00:28:28,850 --> 00:28:31,187
+Qual é, Dean! Por quanto tempo
+vai fazer isso?
+
+420
+00:28:31,188 --> 00:28:32,922
+Vai ficar me dando gelo?
+
+421
+00:28:32,923 --> 00:28:34,705
+Temos tanta coisa
+para conversar.
+
+422
+00:28:34,706 --> 00:28:37,039
+Ei, é bom te ver, ok?
+É sim.
+
+423
+00:28:37,040 --> 00:28:39,525
+Mas como eu disse,
+você não é o Benny.
+
+424
+00:28:39,944 --> 00:28:41,446
+Não sou?
+
+425
+00:28:42,343 --> 00:28:44,108
+- Droga.
+- Também estou chateado,
+
+426
+00:28:44,125 --> 00:28:45,903
+mas você é só
+um fragmento, está bem?
+
+427
+00:28:45,920 --> 00:28:47,463
+Você é lixo
+do meu subconsciente
+
+428
+00:28:47,480 --> 00:28:48,845
+que meu cérebro está usando
+
+429
+00:28:48,862 --> 00:28:51,073
+para me distrair de tentar
+voltar à realidade.
+
+430
+00:28:51,092 --> 00:28:52,827
+"Fragmento"? "Lixo"?
+
+431
+00:28:52,843 --> 00:28:55,222
+Vou tentar
+não me ofender.
+
+432
+00:28:57,788 --> 00:28:59,542
+Por que não confia em mim?
+
+433
+00:28:59,625 --> 00:29:01,210
+Eu já te tirei
+daqui antes.
+
+434
+00:29:01,228 --> 00:29:03,962
+Além disso, se sou apenas
+"lixo do subconsciente,"
+
+435
+00:29:03,963 --> 00:29:06,414
+como posso te levar
+para o caminho errado?
+
+436
+00:29:09,258 --> 00:29:10,887
+Que tal isso aqui?
+
+437
+00:29:10,888 --> 00:29:12,557
+Um círculo perfeito.
+
+438
+00:29:12,613 --> 00:29:14,531
+Não olhe para mim, chefe.
+
+439
+00:29:14,580 --> 00:29:16,665
+Quem escolheu
+o caminho foi você.
+
+440
+00:29:34,743 --> 00:29:37,872
+Aqui está.
+É um tipo de inscrição.
+
+441
+00:29:37,963 --> 00:29:42,001
+Um tipo de escrita à mão,
+mas a fonte de luz diminuiu.
+
+442
+00:29:42,833 --> 00:29:44,753
+Eu sei o que disse
+sobre sua espécie,
+
+443
+00:29:44,772 --> 00:29:47,003
+mas o homem que bolou isso?
+
+444
+00:29:47,004 --> 00:29:49,147
+A arte da caixa,
+
+445
+00:29:49,148 --> 00:29:51,132
+o sadismo do feitiço...
+
+446
+00:29:51,133 --> 00:29:52,843
+É tudo tão...
+
+447
+00:29:53,208 --> 00:29:55,681
+deliciosamente barroco.
+
+448
+00:29:55,763 --> 00:29:57,542
+Certo, vamos lá.
+
+449
+00:30:00,393 --> 00:30:01,983
+<i>Inlumina.</i>
+
+450
+00:30:11,572 --> 00:30:14,032
+Isso já é estranho.
+
+451
+00:30:15,772 --> 00:30:18,662
+Benny... ou quem quer que seja.
+Eu preciso sair daqui.
+
+452
+00:30:18,678 --> 00:30:21,498
+"Precisar" e "querer" são
+coisas bem diferentes, não é?
+
+453
+00:30:23,508 --> 00:30:25,257
+É tudo um fragmento, certo?
+
+454
+00:30:25,258 --> 00:30:28,012
+Você, eu.
+Esquerda, direita.
+
+455
+00:30:28,088 --> 00:30:30,032
+Mas não importa que caminho
+você siga,
+
+456
+00:30:30,048 --> 00:30:31,758
+acaba voltando pra cá.
+
+457
+00:30:32,151 --> 00:30:34,151
+É de se pensar...
+
+458
+00:30:34,422 --> 00:30:36,472
+por que esse fragmento?
+
+459
+00:30:37,058 --> 00:30:38,798
+Por que esse lugar?
+
+460
+00:30:40,224 --> 00:30:41,767
+O que está dizendo?
+
+461
+00:30:41,768 --> 00:30:44,022
+Nada de que você
+já não saiba.
+
+462
+00:30:45,299 --> 00:30:47,467
+É aqui que você quer estar...
+
+463
+00:30:47,468 --> 00:30:49,483
+Seu lugar feliz.
+
+464
+00:30:50,868 --> 00:30:53,423
+E você não quer ir
+embora de verdade.
+
+465
+00:30:55,073 --> 00:30:57,943
+<i>"Arcam confutare..."</i>
+
+466
+00:30:57,944 --> 00:30:59,948
+"Para silenciar a caixa..."
+
+467
+00:31:01,653 --> 00:31:04,182
+<i>"Sitim restinguere..."</i>
+
+468
+00:31:04,183 --> 00:31:05,792
+"Matai sua sede..."
+
+469
+00:31:05,808 --> 00:31:08,920
+<i>"Sanguine nostrum."</i>
+
+470
+00:31:09,003 --> 00:31:12,256
+"Com... o nosso
+próprio sangue."
+
+471
+00:31:12,381 --> 00:31:13,966
+É isso?
+
+472
+00:31:13,967 --> 00:31:16,345
+"O sangue dele próprio..."
+O quê?
+
+473
+00:31:18,638 --> 00:31:20,807
+"O <i>nosso</i> próprio sangue."
+
+474
+00:31:23,642 --> 00:31:25,727
+Sangue dos Homens das Letras.
+
+475
+00:31:25,821 --> 00:31:27,615
+Sangue do legado.
+
+476
+00:31:28,425 --> 00:31:30,232
+Meu sangue.
+
+477
+00:31:35,559 --> 00:31:38,183
+Lembra do que me disse
+quando nos conhecemos?
+
+478
+00:31:38,500 --> 00:31:41,125
+Sobre a pureza
+desse lugar?
+
+479
+00:31:41,966 --> 00:31:44,895
+Dean, vá devagar.
+
+480
+00:31:45,248 --> 00:31:47,405
+Dean, pare.
+
+481
+00:31:51,128 --> 00:31:52,762
+Me escute.
+
+482
+00:31:55,050 --> 00:31:56,643
+Isso?
+
+483
+00:31:57,218 --> 00:32:00,367
+Nesse lugar, você não precisa
+procurar uma luta.
+
+484
+00:32:02,062 --> 00:32:05,144
+Precisa só ficar parado
+por um momento
+
+485
+00:32:05,560 --> 00:32:07,847
+e a luta
+vem até você.
+
+486
+00:32:09,848 --> 00:32:11,900
+É por isso
+que está aqui, Dean.
+
+487
+00:32:12,527 --> 00:32:15,064
+<i>Essa</i> é a pureza
+que você deseja...
+
+488
+00:32:15,855 --> 00:32:18,522
+Matar sem consequências.
+
+489
+00:32:22,220 --> 00:32:24,840
+Não, Benny,
+eu não quero mais lutar.
+
+490
+00:32:24,841 --> 00:32:26,260
+Estou cansado de lutar.
+
+491
+00:32:26,261 --> 00:32:27,847
+Mas a Marca não está.
+
+492
+00:32:31,628 --> 00:32:34,382
+Então...
+Não pode sair.
+
+493
+00:32:34,383 --> 00:32:36,173
+Não quer ficar.
+
+494
+00:32:36,717 --> 00:32:38,885
+Um belo enrosco, não acha?
+
+495
+00:32:40,762 --> 00:32:43,724
+A boa notícia é que sempre
+há uma terceira opção.
+
+496
+00:32:48,103 --> 00:32:50,857
+Não pode me dizer
+que não pensou nisso.
+
+497
+00:32:53,084 --> 00:32:55,610
+Isso não vai acontecer.
+Nunca.
+
+498
+00:32:55,628 --> 00:32:57,112
+Qual é, Dean!
+
+499
+00:32:57,364 --> 00:32:59,611
+Eu sei que você consegue ver.
+
+500
+00:33:00,083 --> 00:33:02,753
+- A pureza, a honra.
+- Não há honra nisso.
+
+501
+00:33:02,754 --> 00:33:05,783
+Vai ficar esperando
+a Marca te reivindicar?
+
+502
+00:33:06,438 --> 00:33:09,123
+Cair lutando,
+morrer lá em cima. E aí?
+
+503
+00:33:09,143 --> 00:33:11,943
+Vai matar humanos?
+Matar o Cas? Matar seu irmão?
+
+504
+00:33:11,960 --> 00:33:14,163
+- Pois é, muito honrado!
+- Benny, cale a boca!
+
+505
+00:33:14,180 --> 00:33:16,012
+Sinto muito.
+Eu me esqueci...
+
+506
+00:33:16,028 --> 00:33:17,757
+Sobre seu plano.
+
+507
+00:33:19,008 --> 00:33:21,791
+Vai fazer Sam e Cas
+te derrubarem, não é?
+
+508
+00:33:22,210 --> 00:33:25,658
+Acha mesmo que eles vão
+manter a palavra? Qual é!
+
+509
+00:33:26,433 --> 00:33:28,518
+Dean, digamos
+que eles o façam.
+
+510
+00:33:30,132 --> 00:33:33,685
+Acha que algum dia
+eles vão se recuperar?
+
+511
+00:33:35,365 --> 00:33:38,199
+Isso vai arruiná-los.
+
+512
+00:33:40,400 --> 00:33:42,223
+Esse seu plano B...
+
+513
+00:33:42,243 --> 00:33:44,952
+Sei que vem pensando nisso
+há algum tempo.
+
+514
+00:33:45,952 --> 00:33:48,372
+Sei que isso está
+te roendo por dentro.
+
+515
+00:33:53,050 --> 00:33:56,025
+Não pode deixar
+esse trabalho para eles.
+
+516
+00:33:58,257 --> 00:33:59,967
+Está certo.
+
+517
+00:34:03,716 --> 00:34:07,136
+<i>Lá fora?
+Você está dormindo.</i>
+
+518
+00:34:07,140 --> 00:34:09,960
+Se fizer
+a escolha certa aqui,
+
+519
+00:34:09,961 --> 00:34:11,894
+você vai dormir para sempre
+
+520
+00:34:11,895 --> 00:34:15,732
+e nunca mais vai
+machucar alguém de novo.
+
+521
+00:34:23,168 --> 00:34:25,318
+Ninguém precisa saber, Dean.
+
+522
+00:34:26,062 --> 00:34:30,322
+O que acontece no Purgatório,
+fica no Purgatório.
+
+523
+00:35:03,251 --> 00:35:05,419
+Como sabe que
+isso vai funcionar?
+
+524
+00:35:05,612 --> 00:35:07,072
+Não sei.
+
+525
+00:35:24,953 --> 00:35:26,845
+Está funcionando.
+
+526
+00:35:35,178 --> 00:35:37,512
+Eu sempre amei este lugar.
+
+527
+00:35:42,110 --> 00:35:45,210
+Tão bom quanto qualquer
+outro para descansar, não?
+
+528
+00:35:50,745 --> 00:35:52,197
+Diminua.
+
+529
+00:35:52,552 --> 00:35:54,841
+Está bem.
+
+530
+00:36:00,088 --> 00:36:01,823
+Não, não, não.
+
+531
+00:36:03,495 --> 00:36:05,788
+Ela quer mais, Sam.
+
+532
+00:36:06,255 --> 00:36:08,186
+Ela quer tudo.
+
+533
+00:36:08,218 --> 00:36:09,972
+O códice...
+
+534
+00:36:10,470 --> 00:36:12,222
+O caminho para a cura.
+
+535
+00:36:12,223 --> 00:36:13,933
+Está aí.
+
+536
+00:36:16,059 --> 00:36:18,438
+Se ela quer mais,
+então vai ganhar mais.
+
+537
+00:36:33,713 --> 00:36:35,339
+Eu o faria.
+
+538
+00:36:38,750 --> 00:36:40,767
+Se realmente precisasse,
+
+539
+00:36:41,043 --> 00:36:42,712
+eu o faria.
+
+540
+00:36:44,507 --> 00:36:46,429
+Mas o Benny de verdade
+
+541
+00:36:46,430 --> 00:36:48,343
+nunca me deixaria fazer isso.
+
+542
+00:36:48,927 --> 00:36:51,336
+Nós já determinamos isso,
+chefe.
+
+543
+00:36:51,598 --> 00:36:53,263
+Não sou eu.
+
+544
+00:36:53,432 --> 00:36:55,517
+Sabe o que mais
+não vai deixar?
+
+545
+00:36:55,533 --> 00:36:58,970
+Essa coisa no meu braço.
+
+546
+00:37:03,918 --> 00:37:06,934
+Para o bem ou para o mal,
+a Marca...
+
+547
+00:37:07,117 --> 00:37:09,702
+me quer vivo.
+
+548
+00:37:23,587 --> 00:37:25,509
+Valeu, amigo,
+
+549
+00:37:25,734 --> 00:37:27,859
+mas não, obrigado.
+
+550
+00:37:41,312 --> 00:37:43,614
+Está abrindo, Sammy!
+
+551
+00:37:43,690 --> 00:37:45,876
+Está quase lá!
+
+552
+00:37:52,010 --> 00:37:53,510
+Sam!
+
+553
+00:37:56,573 --> 00:37:58,913
+Sammy, o que quer
+que esteja vendo, é um truque.
+
+554
+00:37:58,932 --> 00:38:00,540
+Está bem?
+Não é real!
+
+555
+00:38:00,541 --> 00:38:02,460
+- Dean?
+- Sim.
+
+556
+00:38:02,461 --> 00:38:03,928
+Não.
+
+557
+00:38:03,929 --> 00:38:06,073
+Não. Ei! Ei!
+
+558
+00:38:07,597 --> 00:38:09,432
+Saia de perto de mim!
+
+559
+00:38:09,433 --> 00:38:11,208
+Não, não! Não!
+
+560
+00:38:11,209 --> 00:38:12,613
+É o único jeito.
+
+561
+00:38:12,614 --> 00:38:14,473
+- Precisa do sangue do legado...
+- Não.
+
+562
+00:38:14,474 --> 00:38:16,164
+O suficiente para tirar a vida.
+
+563
+00:38:16,165 --> 00:38:17,709
+É, bem...
+
+564
+00:38:17,710 --> 00:38:20,375
+Não precisa vir de
+um legado apenas, precisa?
+
+565
+00:38:21,643 --> 00:38:23,980
+Se precisa de mais sangue,
+pode ficar com o meu.
+
+566
+00:38:43,063 --> 00:38:44,813
+Ah, muito bem...
+
+567
+00:39:29,075 --> 00:39:30,963
+Não acha que foi exagero?
+
+568
+00:39:30,980 --> 00:39:32,763
+Digo, quebramos o feitiço.
+
+569
+00:39:32,782 --> 00:39:34,591
+A caixa é só uma caixa.
+
+570
+00:39:34,592 --> 00:39:36,637
+Bem, agora é só sucata.
+
+571
+00:39:38,507 --> 00:39:40,039
+Tudo bem?
+
+572
+00:39:41,630 --> 00:39:43,340
+Sim, estou ótimo.
+
+573
+00:39:43,557 --> 00:39:45,601
+Está pronto para a estrada?
+
+574
+00:39:45,602 --> 00:39:47,202
+Vou ficar bem.
+
+575
+00:39:47,188 --> 00:39:48,939
+Isso diz muita coisa, não é?
+
+576
+00:39:48,940 --> 00:39:50,567
+Werther nos separar lá dentro.
+
+577
+00:39:50,582 --> 00:39:52,942
+Em uma hora, nós dois
+chegamos à beira da morte?
+
+578
+00:39:55,417 --> 00:39:58,197
+Desculpe por ontem,
+por agir sozinho daquele jeito.
+
+579
+00:39:58,198 --> 00:40:00,972
+Quer saber, Dean?
+Não se desculpe. Eu...
+
+580
+00:40:02,453 --> 00:40:04,455
+Isso nos deixa empatados.
+
+581
+00:40:04,663 --> 00:40:06,862
+O Universo está tentando
+nos dizer uma coisa
+
+582
+00:40:06,882 --> 00:40:08,377
+que já deveríamos saber.
+
+583
+00:40:09,085 --> 00:40:11,350
+Somos mais fortes juntos
+do que separados.
+
+584
+00:40:13,715 --> 00:40:16,571
+O que pode ser
+tão valioso,
+
+585
+00:40:16,572 --> 00:40:19,547
+que precise de um feitiço
+tão horrível para proteger?
+
+586
+00:40:20,638 --> 00:40:22,403
+Não faço ideia.
+
+587
+00:40:24,468 --> 00:40:26,095
+O que quer que seja,
+
+588
+00:40:26,096 --> 00:40:28,056
+vamos manter em segurança.
+
+589
+00:40:39,339 --> 00:40:42,384
+Olá, cowboy!
+
+590
+00:40:43,184 --> 00:40:46,138
+Você conseguiu!
+
+591
+00:40:52,830 --> 00:40:54,485
+É o suficiente?
+
+592
+00:40:55,046 --> 00:40:56,450
+Para quê?
+
+593
+00:40:56,451 --> 00:40:58,176
+Para traduzir o livro.
+
+594
+00:40:58,351 --> 00:41:00,142
+Encontrar uma cura
+para a Marca.
+
+595
+00:41:00,143 --> 00:41:01,709
+Sim.
+
+596
+00:41:01,830 --> 00:41:03,330
+Bom.
+
+597
+00:41:05,058 --> 00:41:06,460
+O q...
+
+598
+00:41:06,478 --> 00:41:08,018
+O que diabos é isso?!
+
+599
+00:41:08,037 --> 00:41:09,603
+Garantia.
+
+600
+00:41:11,230 --> 00:41:12,732
+Confortável?
+
+601
+00:41:12,733 --> 00:41:16,405
+Tínhamos um acordo,
+<i>gigante.</i>
+
+602
+00:41:17,320 --> 00:41:18,988
+O acordo está de pé.
+
+603
+00:41:19,007 --> 00:41:20,932
+Você vai decifrar
+o Livro dos Condenados
+
+604
+00:41:20,940 --> 00:41:22,764
+e encontrar uma cura
+para o meu irmão.
+
+605
+00:41:22,765 --> 00:41:25,468
+E isso é <i>tudo</i>
+o que vai conseguir do livro.
+
+606
+00:41:26,062 --> 00:41:28,927
+Eu vou queimar o livro
+e depois matar Crowley.
+
+607
+00:41:28,928 --> 00:41:31,502
+- Mas até lá...
+- Sou sua escrava?
+
+608
+00:41:33,693 --> 00:41:36,911
+Você não pode
+me deixar aqui.
+
+609
+00:41:37,838 --> 00:41:41,552
+Quer sair? Apresse-se.
+Ao trabalho.
+
+610
+00:41:42,838 --> 00:41:44,943
+Seu estúpido!
+
